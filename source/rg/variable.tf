@@ -1,0 +1,3 @@
+variable "jio_rg" {
+  
+}
